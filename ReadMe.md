@@ -2,9 +2,6 @@
 Currently learning programming <br>💻 Sharing my projects and progress here <br>✨ Goal: Become a skilled developer and build impactful products
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya2005-cloud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
