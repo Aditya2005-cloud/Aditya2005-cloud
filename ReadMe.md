@@ -39,4 +39,4 @@ I build practical software at the intersection of machine learning and backend s
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/adityasaha2005
-- Email: adityasaha100505@gmail.com
+- Email: adityaxtyzhd@gmail.com
