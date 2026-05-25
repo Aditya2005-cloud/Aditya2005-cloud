@@ -28,8 +28,8 @@ I build practical software at the intersection of machine learning and backend s
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya2005-cloud&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2005-cloud&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya2005-cloud&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya2005-cloud&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya2005-cloud&theme=tokyonight&hide_border=true)
 
 ## Contribution Snake
