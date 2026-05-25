@@ -32,6 +32,10 @@ I build practical software at the intersection of machine learning and backend s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2005-cloud&layout=compact&hide_border=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya2005-cloud&theme=tokyonight&hide_border=true)
 
+## Contribution Snake
+
+![Snake animation](https://github.com/Aditya2005-cloud/Aditya2005-cloud/blob/output/github-contribution-grid-snake.svg)
+
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/adityasaha2005
