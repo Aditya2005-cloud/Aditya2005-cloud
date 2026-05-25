@@ -10,6 +10,18 @@
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-111827?style=flat-square&logo=googlemaps&logoColor=60a5fa" />
 </p>
 
+<p>
+  <a href="https://github.com/Aditya2005-cloud">
+    <img src="https://img.shields.io/badge/Enter%20My%20AI%20Lab-22D3EE?style=for-the-badge&logo=github&logoColor=05070d&labelColor=A78BFA" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityasaha2005">
+    <img src="https://img.shields.io/badge/LinkedIn%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+  </a>
+  <a href="mailto:adityaxtyzhd@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  </a>
+</p>
+
 </div>
 
 <div align="center">
@@ -62,10 +74,20 @@ interests: Ethical Hacking, Reverse Engineering, Cloud Architecture
 </div>
 
 ## Featured Projects
-- Fraud Detection Engine (fintech anomaly/risk scoring)
-- AI-Powered Financial Advisor prototype
-- Portfolio Analytics and Risk Insights tools
-- ML-integrated backend APIs
+<div align="center">
+  <a href="https://github.com/Aditya2005-cloud?tab=repositories">
+    <img src="https://img.shields.io/badge/Fraud%20Detection%20Engine-22D3EE?style=for-the-badge&logo=python&logoColor=05070d&labelColor=111827" />
+  </a>
+  <a href="https://github.com/Aditya2005-cloud?tab=repositories">
+    <img src="https://img.shields.io/badge/AI%20Financial%20Advisor-A78BFA?style=for-the-badge&logo=openai&logoColor=05070d&labelColor=111827" />
+  </a>
+  <a href="https://github.com/Aditya2005-cloud?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio%20Analytics-22D3EE?style=for-the-badge&logo=databricks&logoColor=05070d&labelColor=111827" />
+  </a>
+  <a href="https://github.com/Aditya2005-cloud?tab=repositories">
+    <img src="https://img.shields.io/badge/ML%20Backend%20APIs-A78BFA?style=for-the-badge&logo=fastapi&logoColor=05070d&labelColor=111827" />
+  </a>
+</div>
 
 ## Certifications
 - Cloud and security certifications: in progress
@@ -94,8 +116,14 @@ interests: Ethical Hacking, Reverse Engineering, Cloud Architecture
 <!--END_SECTION:activity-->
 
 ## Connect
-- LinkedIn: www.linkedin.com/in/adityasaha2005
-- Email: adityaxtyzhd@gmail.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/adityasaha2005">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+  </a>
+  <a href="mailto:adityaxtyzhd@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  </a>
+</div>
 
 ## Future Upgrade: Full 3D Portfolio Site
 ```text
