@@ -34,7 +34,7 @@ I build practical software at the intersection of machine learning and backend s
 
 ## Contribution Snake
 
-![Snake animation](https://github.com/Aditya2005-cloud/Aditya2005-cloud/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Aditya2005-cloud/Aditya2005-cloud/output/github-contribution-grid-snake.svg)
 
 ## Contact
 
