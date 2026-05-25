@@ -12,6 +12,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070d,50:4c1d95,100:0ea5e9&height=2&section=footer" width="100%" />
+</div>
+
 ## `> whoami`
 ```bash
 name: Aditya Saha
@@ -78,6 +82,11 @@ interests: Ethical Hacking, Reverse Engineering, Cloud Architecture
 ## Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aditya2005-cloud/Aditya2005-cloud/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+</div>
+
+## 3D Contribution Skyline
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aditya2005-cloud/Aditya2005-cloud/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </div>
 
 ## Activity Feed
