@@ -1,13 +1,13 @@
 <div align="center">
 
 <img src="./assets/anime-awakened-banner.gif" width="100%" alt="Original anime-inspired awakened warrior banner" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020202,35:0b0b0b,70:7f0000,100:ff1a1a&text=ADITYA%20SAHA&fontSize=58&fontColor=f5f5f5&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20Aesthetic%20%7C%20Python%20%2B%20Java&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020202,35:0b0b0b,70:7f0000,100:ff1a1a&text=ADITYA%20SAHA&fontSize=58&fontColor=f5f5f5&animation=twinkling&fontAlignY=36&desc=Python%20%2B%20Java%20Developer%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2400&pause=700&color=ff3b30&center=true&vCenter=true&width=980&lines=Welcome+to+my+futuristic+AI+lab;Reverse+Engineering+%7C+Cloud+Security;Building+intelligent+backend+systems+for+real+world+impact" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2400&pause=700&color=ff3b30&center=true&vCenter=true&width=980&lines=Welcome+to+my+creative+dev+lab;Python+%2B+Java;Building+useful+apps+and+clean+backends" alt="Typing intro" />
 
 <p>
-  <img src="https://img.shields.io/badge/Theme-Luffy%20Inferno-111111?style=flat-square&logo=icloud&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Cloud-111111?style=flat-square&logo=hackthebox&logoColor=ff6b6b" />
+  <img src="https://img.shields.io/badge/Theme-Luffy%20Inferno-111111?style=flat-square&logo=github&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Software%20%7C%20Backend-111111?style=flat-square&logo=python&logoColor=ff6b6b" />
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-111111?style=flat-square&logo=googlemaps&logoColor=ff3b30" />
 </p>
 
@@ -33,15 +33,15 @@
 ```bash
 name: Aditya Saha
 role: Python Developer | Java Developer | AI/ML Engineer
-mission: Build secure, intelligent, production-grade systems
-interests: Reverse Engineering
+mission: Build useful, intelligent, production-grade systems
+interests: Python, Java, AI/ML, Backend Development
 ```
 
 ## AI Assistant Console
 ```text
 [BOOT] Neural assistant online...
 [SCAN] Portfolio systems stable
-[READY] Explore projects, stats, security interests, and contact channel
+[READY] Explore projects, stats, and contact channel
 ```
 
 ## Tech Stack Matrix
@@ -90,17 +90,10 @@ interests: Reverse Engineering
   </a>
 </div>
 
-## Certifications
-- Cloud and security certifications: in progress
-- AI/ML practical specialization: in progress
-- Reverse engineering learning track: active
-
-## Reverse Engineering + Cybersecurity Interests
-- Malware analysis fundamentals
-- Reverse engineering workflows and tooling
-- Linux security and CLI tools
-- Cloud security architecture
-- CTF-style problem solving and labs
+## Current Focus
+- Building Python and Java projects
+- Improving AI/ML and backend fundamentals
+- Keeping the profile clean, practical, and easy to understand
 
 ## Contribution Snake
 <div align="center">
@@ -130,7 +123,7 @@ interests: Reverse Engineering
 ```text
 Planned stack: Next.js + React Three Fiber + Framer Motion + Tailwind + GSAP
 Modules: 3D assistant avatar, holographic panels, particle world, interactive timeline,
-GitHub live integrations, terminal navigation, cybersecurity dashboard.
+GitHub live integrations, terminal navigation, developer dashboard.
 ```
 
 <div align="center">
