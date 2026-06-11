@@ -65,10 +65,10 @@ interests: Ethical Hacking, Reverse Engineering, Cloud Architecture
 ## GitHub Command Center
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya2005-cloud&show_icons=true&theme=transparent&hide_border=true&title_color=ff3b30&text_color=f5f5f5&icon_color=ff1a1a" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya2005-cloud&show_icons=true&bg_color=ffffff&title_color=ff3b30&text_color=111111&icon_color=ff3b30&border_color=ff3b30" height="170" />
 <img src="https://streak-stats.demolab.com?user=Aditya2005-cloud&theme=transparent&hide_border=true&ring=ff3b30&fire=ff1a1a&currStreakLabel=f5f5f5&sideLabels=f5f5f5&dates=a3a3a3" height="170" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya2005-cloud&layout=compact&theme=transparent&hide_border=true&title_color=ff3b30&text_color=f5f5f5" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya2005-cloud&layout=compact&bg_color=ffffff&title_color=ff3b30&text_color=111111&border_color=ff3b30" height="160" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2005-cloud&theme=redical&bg_color=020202&hide_border=true&line=ff3b30&color=f5f5f5&point=ff1a1a" width="100%" />
 
@@ -109,7 +109,7 @@ interests: Ethical Hacking, Reverse Engineering, Cloud Architecture
 
 ## 3D Contribution Skyline
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya2005-cloud/Aditya2005-cloud/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+  <img src="./assets/contribution-skyline.svg" width="100%" alt="3D contribution skyline" />
 </div>
 
 ## Activity Feed
