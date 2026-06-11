@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./assets/anime-awakened-banner.svg" width="100%" alt="Original anime-inspired awakened warrior banner" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:05070d,35:111827,70:4c1d95,100:0ea5e9&text=ADITYA%20SAHA&fontSize=58&fontColor=e6edf3&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20Aesthetic%20%7C%20Cybersecurity%20Learner%20%7C%20Python%20%2B%20Java&descAlignY=58&descSize=19" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=980&lines=Welcome+to+my+futuristic+AI+lab;Ethical+Hacking+%7C+Reverse+Engineering+%7C+Cloud+Security;Building+intelligent+backend+systems+for+real+world+impact" alt="Typing intro" />
