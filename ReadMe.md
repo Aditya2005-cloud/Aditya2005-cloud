@@ -3,7 +3,7 @@
 <img src="./assets/anime-awakened-banner.gif" width="100%" alt="Original anime-inspired awakened warrior banner" />
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020202,35:0b0b0b,70:7f0000,100:ff1a1a&text=ADITYA%20SAHA&fontSize=58&fontColor=f5f5f5&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20Aesthetic%20%7C%20Python%20%2B%20Java&descAlignY=58&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2400&pause=700&color=ff3b30&center=true&vCenter=true&width=980&lines=Welcome+to+my+futuristic+AI+lab;Ethical+Hacking+%7C+Reverse+Engineering+%7C+Cloud+Security;Building+intelligent+backend+systems+for+real+world+impact" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2400&pause=700&color=ff3b30&center=true&vCenter=true&width=980&lines=Welcome+to+my+futuristic+AI+lab;Reverse+Engineering+%7C+Cloud+Security;Building+intelligent+backend+systems+for+real+world+impact" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/Theme-Luffy%20Inferno-111111?style=flat-square&logo=icloud&logoColor=ff3b30" />
@@ -34,7 +34,7 @@
 name: Aditya Saha
 role: Python Developer | Java Developer | AI/ML Engineer
 mission: Build secure, intelligent, production-grade systems
-interests: Ethical Hacking, Reverse Engineering, Cloud Architecture
+interests: Reverse Engineering
 ```
 
 ## AI Assistant Console
