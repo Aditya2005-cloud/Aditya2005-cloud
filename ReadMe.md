@@ -129,3 +129,4 @@ GitHub live integrations, terminal navigation, developer dashboard.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020202,35:0b0b0b,70:7f0000,100:ff1a1a" width="100%"/>
 </div>
+<!-- last tested: 2026-08-31 -->
