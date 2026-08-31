@@ -65,8 +65,8 @@ interests: Python, Java, AI/ML, Backend Development
 ## GitHub Command Center
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya2005-cloud&show_icons=true&bg_color=ffffff&title_color=ff3b30&text_color=111111&icon_color=ff3b30&border_color=ff3b30" height="170" />
-<img src="https://streak-stats.demolab.com?user=Aditya2005-cloud&theme=transparent&hide_border=true&ring=ff3b30&fire=ff1a1a&currStreakLabel=f5f5f5&sideLabels=f5f5f5&dates=a3a3a3" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya2005-cloud&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=ff3b30&text_color=111111&icon_color=ff3b30&border_color=ff3b30" height="170" />
+<img src="https://streak-stats.demolab.com?user=Aditya2005-cloud&count_private=true&theme=transparent&hide_border=true&ring=ff3b30&fire=ff1a1a&currStreakLabel=f5f5f5&sideLabels=f5f5f5&dates=a3a3a3" height="170" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya2005-cloud&layout=compact&bg_color=ffffff&title_color=ff3b30&text_color=111111&border_color=ff3b30" height="160" />
 
