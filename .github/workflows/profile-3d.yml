@@ -19,14 +19,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Aditya2005-cloud
-          SETTING_JSON: "{\"type\": \"daily\", \"theme\": \"github\", \"includePrivate\": true}"
 
       - name: Commit and push 3D profile
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p assets
-          cp -f profile-3d-contrib/profile-gitblock.svg assets/contribution-skyline.svg 2>/dev/null || \
+          cp -f profile-3d-contrib/profile-night-view.svg assets/contribution-skyline.svg 2>/dev/null || \
           cp -f profile-3d-contrib/*.svg assets/contribution-skyline.svg 2>/dev/null || true
           git add assets/contribution-skyline.svg || true
           git diff --staged --quiet || git commit -m "chore: update 3D contribution profile"
