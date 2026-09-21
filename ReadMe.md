@@ -32,9 +32,9 @@
 ## `> whoami`
 ```bash
 name: Aditya Saha
-role: Python Developer | Java Developer | AI/ML Engineer
+role: Python Developer |kali linux Enthusiast| AI/ML Engineer
 mission: Build useful, intelligent, production-grade systems
-interests: Python, Java, AI/ML, Backend Development
+interests: Python, Java, AI/ML, Backend Development, rust, kali-linux, Bash
 ```
 
 ## AI Assistant Console
