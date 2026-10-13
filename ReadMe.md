@@ -111,7 +111,7 @@ interests: Python, Java, AI/ML, Backend Development, rust, kali-linux, Bash
 
 ## Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/adityasaha2005">
+  <a href="www.linkedin.com/in/aditya-saha-4b3808290">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=ff3b30&labelColor=111111" />
   </a>
   <a href="mailto:adityaxtyzhd@gmail.com">
